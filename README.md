@@ -18,29 +18,28 @@ UET - Assignment - Project
 - Thư viện SDL2(hình ảnh, âm thanh, font chữ).
 - Tạo ra nhiều các đối tượng như: con chim, background, menu,...
 - Sử dụng nhiều tính kế thừa, đa hình của phương pháp lập trình hướng đối tượng. 
-- Có thể lưu được high score thông qua lưu, ghi file.
 - Dùng kiến thức toán / lý để tính toán được độ rơi và góc nghiêng của con chim sao cho hợp lý.
 - Có thể chơi lại nhiều lần.
 - Xử lý thời gian, thao tác chuột, âm thanh hình ảnh, bàn phím.
 
 # Nguồn tham khảo:
-- Set up SDL2 cho VSCode(mingw): https://www.youtube.com/watch?v=H08t6gD1Y1E
-- Hình ảnh và âm thanh đều được tìm kiếm trên google.
+- Set up SDL2 cho Visual Studio:
 - LazyFoo: https://lazyfoo.net/tutorials/SDL/index.php
 - Askari Hassan: https://www.youtube.com/channel/UC2Ab_b49frkmgFJajOvtkpw
 
 # Kết luận:
-*Điểm tâm đắc :
+*Điểm hài lòng :
 - Hiểu được cách chia, tách file.
 - Sử dụng được thành thạo được class và các tính chất của chúng.
 - Kĩ thuật lập trình được nâng cao hơn.
 - Học được cách setup môi trường thư viện ngoài.
 - Chương trình có thể dễ dành refactor và cập nhật.
 
-*Điểm chưa được:
+*Điểm cần khắc phục:
 - Chưa có hệ thống chọn nhân vật.
 
 *Hướng phát triển thêm:
+- Bảng điểm cao, hệ thống nhân vật
 - Multiplayer.
 - Sử dụng AI để con chim có thể tự động vượt qua chướng ngại vật.
 
