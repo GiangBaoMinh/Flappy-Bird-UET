@@ -10,13 +10,13 @@
 
 # Hướng dẫn chơi
 - Sử dụng phím Space hoặc phìm ↑ để điều khiển con chim nhảy qua các chướng ngại vật là cột nước
-- 
+
 # Cài đặt
--Cài đặt Microsoft Visual Studio
--Clone dự án về máy.
--Link các thư viên SDL, SDL_image, SDL_ttf, SDL_mixer
--Chạy file Snake_project.sln
--Ấn phìm F5
+- Cài đặt Microsoft Visual Studio
+- Clone dự án về máy.
+- Link các thư viên SDL, SDL_image, SDL_ttf, SDL_mixer
+ -Chạy file Snake_project.sln
+- Ấn phìm F5
 # Các kỹ thuật được sử dụng:
 - Sử dụng các thư viện SDL2(SDL_image,SDL_mixer,SDL_ttf).
 - Kĩ thuật lập trình hướng đối tượng
